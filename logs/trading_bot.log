@@ -1,0 +1,4 @@
+2026-03-29 22:41:22.164 ERROR [trading_bot] API credentials not provided. Use --api-key/--api-secret or BINANCE_API_KEY/BINANCE_API_SECRET
+2026-03-29 22:41:34.590 ERROR [trading_bot] API credentials not provided. Use --api-key/--api-secret or BINANCE_API_KEY/BINANCE_API_SECRET
+2026-03-29 22:43:56.741 INFO [trading_bot] Order request: symbol=BTCUSDT side=BUY type=MARKET quantity=0.001 price=None
+2026-03-29 22:43:57.402 ERROR [trading_bot] Failed API call: Binance API error 401: API-key format invalid.

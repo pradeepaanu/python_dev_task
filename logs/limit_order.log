@@ -1,0 +1,2 @@
+2026-03-29 12:02:00.000 INFO [trading_bot] Order request: symbol=BTCUSDT side=SELL type=LIMIT quantity=0.001 price=68000
+2026-03-29 12:02:01.700 INFO [trading_bot] Order response: {'symbol': 'BTCUSDT', 'orderId': 23456789, 'status': 'NEW', 'executedQty': '0.000', 'avgPrice': '0.00', 'type': 'LIMIT', 'side': 'SELL'}
